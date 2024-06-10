@@ -1,5 +1,6 @@
 use DsDCS01;
 
+# given SQL Challenge Schema
 
 CREATE TABLE sales (
   customer_id VARCHAR(1),
